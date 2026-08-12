@@ -18,7 +18,7 @@ Project:    FraudShield AI Enterprise
 Version:    2.0 Production Release
 Author:     Avinash Reddy Ch
 Contact:    avinashreddych7@gmail.com
-GitHub:     github.com/Avirech7676/FraudShield-AI-Enterprise
+GitHub:     github.com/sanjanagunnam/FraudShield-AI-Enterprise
 Year:       2026
 License:    Proprietary - All Rights Reserved
 ```
@@ -477,7 +477,7 @@ FraudShield-AI-Enterprise/
 ### Step 1 - Clone Repository
 
 ```bash
-git clone https://github.com/Avirech7676/FraudShield-AI-Enterprise.git
+git clone https://github.com/sanjanagunnam/FraudShield-AI-Enterprise.git
 cd FraudShield-AI-Enterprise
 ```
 
